@@ -23,4 +23,4 @@ No CNAME is included because domain ownership and DNS were not configured. Once 
 The public page has no navigation, secondary pages, platform names, mechanism descriptions, demos, trials, or invented customer claims. The user-supplied artwork is a visual metaphor labeled Velocity, Provenance, and Security.
 
 ## Brand assets
-The approved Convergence logo uses three ivory forms converging to the right, enclosed by a white rounded-square outline on deep navy. logo.svg is the scalable master. favicon.svg, favicon.ico (16/32/48 pixels), individual PNG favicons, apple-touch-icon.png (180 pixels), and logo-512.png are included. The header pairs the symbol with the company name horizontally.
+The approved Convergence logo uses two ivory forms and a cyan bottom form converging to the right, enclosed by a white rounded-square outline on deep navy. logo.svg is the scalable master. favicon.svg, favicon.ico (16/32/48 pixels), individual PNG favicons, apple-touch-icon.png (180 pixels), and logo-512.png are included. The header pairs the symbol with the company name horizontally.
